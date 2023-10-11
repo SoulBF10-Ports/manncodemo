@@ -1,0 +1,45 @@
+{
+	"songs": [
+		[
+			"Contracked", 
+			"pauling", 
+			"Ms. Pauling", 
+			"Inside the offices of the administrator, we find BF lusting for another coworker. It seems like they've been caught in a slight mix up of mercenaries. Will she truly be killed by the administrator?",
+			"160", 
+			"2.7",
+			"3:03"
+		],
+		[
+			"Grease Monkey", 
+			"greasesolie", 
+			"G.M.", 
+			"Grrrreasemonkey! Yeah? Do the Mario! Swing your arms from side to side, cmon let's go, let's go do the Mario! Take one step, and then again- alrighty then! (Stands up and fucking dies)",
+			"175", 
+			"2.8",
+			"2:22"
+		],
+		[
+			"Classics", 
+			"civilian", 
+			"Civ + Merc",
+			"Our two lovebirds find themselves at blackstone harbor, where they meet a rather posh fellow with a ton of cash. Unfortunately for them, this gentleman has a teamate backing him up. You dare rob this poor man?",
+			"120", 
+			"3.0",
+			"2:52-3:42"
+		]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"storyName": "Freeplay",
+	"weekName": "Freeplay",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,57 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				296,
+				239
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "bf death start"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				296,
+				-148
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "bf death end",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				296,
+				-148
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "bf death loop",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gameover/bf-death-spy",
+	"position": [
+		-35,
+		35
+	],
+	"health": 1,
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-200,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

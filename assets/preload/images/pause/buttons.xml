@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="conch_assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="resume0000" x="0" y="0" width="520" height="60"/>
+	<SubTexture name="restart0000" x="0" y="65" width="520" height="60"/>
+	<SubTexture name="loadout0000" x="0" y="130" width="520" height="60"/>
+	<SubTexture name="save0000" x="0" y="195" width="520" height="60"/>
+	<SubTexture name="exit0000" x="0" y="260" width="520" height="60"/>
+	<SubTexture name="eresume0000" x="525" y="0" width="520" height="60"/>
+	<SubTexture name="erestart0000" x="525" y="65" width="520" height="60"/>
+	<SubTexture name="eloadout0000" x="525" y="130" width="520" height="60"/>
+	<SubTexture name="esave0000" x="525" y="195" width="520" height="60"/>
+	<SubTexture name="eexit0000" x="525" y="260" width="520" height="60"/>
+</TextureAtlas>

@@ -1,0 +1,83 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				5,
+				-180
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pauline idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-159
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pauline up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-180
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "pauline down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-180
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pauline left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				-181
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pauline right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pauling",
+	"position": [
+		-120,
+		-80
+	],
+	"health": 1.25,
+	"healthicon": "pauling",
+	"flip_x": true,
+	"healthbar_colors": [
+		204,
+		0,
+		0
+	],
+	"camera_position": [
+		-430,
+		250
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"healthBarOffsetP2": [
+		0,
+		-80
+	]
+}

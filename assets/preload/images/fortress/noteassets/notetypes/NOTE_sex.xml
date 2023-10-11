@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_types.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="B0000" x="324" y="192" width="184" height="171"/>
+	<SubTexture name="A0000" x="508" y="192" width="168" height="185"/>
+	<SubTexture name="D0000" x="676" y="192" width="178" height="193"/>
+	<SubTexture name="C0000" x="0" y="385" width="190" height="175"/>
+	<SubTexture name="E0000" x="324" y="192" width="184" height="171"/>
+	<SubTexture name="F0000" x="508" y="192" width="168" height="185"/>
+	<SubTexture name="G0000" x="676" y="192" width="178" height="193"/>
+	<SubTexture name="H0000" x="0" y="385" width="190" height="175"/>
+	<SubTexture name="I0000" x="676" y="192" width="178" height="193"/>
+</TextureAtlas>

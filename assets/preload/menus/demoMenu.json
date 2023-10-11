@@ -1,0 +1,54 @@
+{
+	"itemList": [
+		{
+			"itemPosition": [202, 200], 
+			"itemScale": 1, 
+			"sheetName": "demo/demoButtons",
+			"animName": "select",
+			"screenCenterX": false, 
+			"screenCenterY": false
+		},
+		{
+			"itemPosition": [202, 250],
+			"itemScale": 1, 
+			"sheetName": "demo/demoButtons",
+			"animName": "options",
+			"screenCenterX": false, 
+			"screenCenterY": false
+		},
+		{
+			"itemPosition": [202, 300],
+			"itemScale": 1, 
+			"sheetName": "demo/demoButtons",
+			"animName": "credits",
+			"screenCenterX": false, 
+			"screenCenterY": false
+
+		},
+		{
+			"itemPosition": [202, 350], 
+			"itemScale": 1, 
+			"sheetName": "demo/demoButtons",
+			"animName": "discord",
+			"screenCenterX": false, 
+			"screenCenterY": false
+		},
+		{
+			"itemPosition": [402, 350], 
+			"itemScale": 1, 
+			"sheetName": "demo/demoButtons",
+			"animName": "twitter",
+			"screenCenterX": false, 
+			"screenCenterY": false
+		}
+
+	],
+	"controls": "Mouse",
+	"cameraScrolls": false,
+	"flickering": false,
+	"fading": false,
+	"camZoom": 1,
+
+	"bgScale": [1, 1],
+	"bgOffsets": [0, 30]
+}

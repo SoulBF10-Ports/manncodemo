@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="contrackerstatic.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="main0000" x="0" y="0" width="1226" height="714"/>
+	<SubTexture name="main0001" x="1226" y="0" width="1226" height="714"/>
+	<SubTexture name="main0002" x="2452" y="0" width="1226" height="714"/>
+</TextureAtlas>

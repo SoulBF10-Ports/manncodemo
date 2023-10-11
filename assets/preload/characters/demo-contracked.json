@@ -1,0 +1,123 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				226,
+				-91
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Demo Drunk left instancia",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				296,
+				-93
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Demo Drunk right instancia",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				236,
+				-97
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Demo Drunk down instancia",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				219,
+				-32
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Demo Drunk up instancia",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				225,
+				-89
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "Demo Drunk sleep instancia",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				231,
+				-92
+			],
+			"anim": "idle-alt",
+			"fps": 30,
+			"name": "Demo Drunk idle instancia",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				240,
+				-62
+			],
+			"anim": "boom",
+			"fps": 24,
+			"name": "Demo Drunk BOOM instancia",
+			"indices": []
+		},
+		{
+			"offsets": [
+				237,
+				-73
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "wake-up",
+			"indices": [],
+			"name": "Demo Drunk line instancia"
+		},
+		{
+			"offsets": [
+				218,
+				-74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh",
+			"indices": [],
+			"name": "Demo Drunk laugh instancia"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Drunk Demoman",
+	"position": [
+		0,
+		-60
+	],
+	"health": 1.75,
+	"healthicon": "demo",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		125
+	],
+	"sing_duration": 6,
+	"scale": 0.75
+}

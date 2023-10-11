@@ -1,0 +1,83 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				161
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Engi0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				53,
+				115
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Engi down"
+		},
+		{
+			"offsets": [
+				35,
+				260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Engi Up"
+		},
+		{
+			"offsets": [
+				66,
+				212
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Engi Left"
+		},
+		{
+			"offsets": [
+				24,
+				192
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Engi right real"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GreaseEngi",
+	"position": [
+		0,
+		60
+	],
+	"health": 1.25,
+	"healthicon": "greaseengie",
+	"flip_x": true,
+	"healthbar_colors": [
+		79,
+		196,
+		235
+	],
+	"camera_position": [
+		-280,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 0.8,
+	"healthBarOffsetP1": [
+		0,
+		-95
+	]
+}

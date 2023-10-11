@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gmretry.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ready?0000" x="0" y="0" width="736" height="613"/>
+	<SubTexture name="Ready?0001" x="0" y="0" width="736" height="613"/>
+	<SubTexture name="Ready?0002" x="0" y="0" width="736" height="613"/>
+	<SubTexture name="Ready?0003" x="0" y="0" width="736" height="613"/>
+	<SubTexture name="Ready?0004" x="0" y="0" width="736" height="613"/>
+	<SubTexture name="Ready?0005" x="0" y="0" width="736" height="613"/>
+	<SubTexture name="Ready?0006" x="0" y="0" width="736" height="613"/>
+	<SubTexture name="Ready?0007" x="0" y="0" width="736" height="613"/>
+	<SubTexture name="Ready? Intro0000" x="736" y="0" width="630" height="528" frameX="-96" frameY="-81" frameWidth="778" frameHeight="628"/>
+	<SubTexture name="Ready? Intro0001" x="736" y="0" width="630" height="528" frameX="-96" frameY="-81" frameWidth="778" frameHeight="628"/>
+	<SubTexture name="Ready? Intro0002" x="736" y="0" width="630" height="528" frameX="-96" frameY="-81" frameWidth="778" frameHeight="628"/>
+	<SubTexture name="Ready? Intro0003" x="736" y="0" width="630" height="528" frameX="-96" frameY="-81" frameWidth="778" frameHeight="628"/>
+	<SubTexture name="Ready? Intro0004" x="736" y="0" width="630" height="528" frameX="-96" frameY="-81" frameWidth="778" frameHeight="628"/>
+	<SubTexture name="Ready? Intro0005" x="736" y="0" width="630" height="528" frameX="-96" frameY="-81" frameWidth="778" frameHeight="628"/>
+	<SubTexture name="Ready? Intro0006" x="736" y="0" width="630" height="528" frameX="-96" frameY="-81" frameWidth="778" frameHeight="628"/>
+	<SubTexture name="Ready? Intro0007" x="736" y="0" width="630" height="528" frameX="-96" frameY="-81" frameWidth="778" frameHeight="628"/>
+	<SubTexture name="Ready? Intro0008" x="1366" y="0" width="612" height="512" frameX="-105" frameY="-89" frameWidth="778" frameHeight="628"/>
+	<SubTexture name="Ready? Intro0009" x="1978" y="0" width="631" height="572" frameX="-86" frameY="-29" frameWidth="778" frameHeight="628"/>
+	<SubTexture name="Ready? Intro0010" x="2609" y="0" width="649" height="588" frameX="-86" frameY="-29" frameWidth="778" frameHeight="628"/>
+	<SubTexture name="Ready? Intro0011" x="3258" y="0" width="643" height="597" frameX="-83" frameY="-12" frameWidth="778" frameHeight="628"/>
+	<SubTexture name="Ready? Intro0012" x="0" y="613" width="654" height="597" frameX="-83" frameY="-12" frameWidth="778" frameHeight="628"/>
+	<SubTexture name="Ready? Intro0013" x="654" y="613" width="716" height="609" frameX="-43" frameY="0" frameWidth="778" frameHeight="628"/>
+	<SubTexture name="Ready? Intro0014" x="1370" y="613" width="778" height="627" frameX="0" frameY="-1" frameWidth="778" frameHeight="628"/>
+	<SubTexture name="Ready? Intro0015" x="2148" y="613" width="741" height="627" frameX="-37" frameY="-1" frameWidth="778" frameHeight="628"/>
+	<SubTexture name="Ready? Intro0016" x="2148" y="613" width="741" height="627" frameX="-37" frameY="-1" frameWidth="778" frameHeight="628"/>
+	<SubTexture name="Ready? Intro0017" x="2889" y="613" width="742" height="620" frameX="-29" frameY="-3" frameWidth="778" frameHeight="628"/>
+	<SubTexture name="Ready? Intro0018" x="0" y="1240" width="742" height="620" frameX="-29" frameY="-3" frameWidth="778" frameHeight="628"/>
+	<SubTexture name="Ready? Intro0019" x="742" y="1240" width="733" height="618" frameX="-30" frameY="0" frameWidth="778" frameHeight="628"/>
+	<SubTexture name="Ready? Intro0020" x="1475" y="1240" width="736" height="613" frameX="-30" frameY="0" frameWidth="778" frameHeight="628"/>
+	<SubTexture name="Ready? Intro0021" x="0" y="0" width="736" height="613" frameX="-30" frameY="0" frameWidth="736" frameHeight="613"/>
+	<SubTexture name="Ready? Intro0022" x="0" y="0" width="736" height="613" frameX="-30" frameY="0" frameWidth="736" frameHeight="613"/>
+	<SubTexture name="Ready? Intro0023" x="0" y="0" width="736" height="613" frameX="-30" frameY="0" frameWidth="736" frameHeight="613"/>
+	<SubTexture name="Ready? Intro0024" x="0" y="0" width="736" height="613" frameX="-30" frameY="0" frameWidth="736" frameHeight="613"/>
+	<SubTexture name="Ready? Intro0025" x="0" y="0" width="736" height="613" frameX="-30" frameY="0" frameWidth="736" frameHeight="613"/>
+	<SubTexture name="Ready? Intro0026" x="0" y="0" width="736" height="613" frameX="-30" frameY="0" frameWidth="736" frameHeight="613"/>
+	<SubTexture name="Ready? Intro0027" x="0" y="0" width="736" height="613" frameX="-30" frameY="0" frameWidth="736" frameHeight="613"/>
+</TextureAtlas>

@@ -1,0 +1,83 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				123,
+				175
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Soldier0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				223,
+				204
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Soldier left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				138,
+				235
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Soldier Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				142,
+				167
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Soldier down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				260,
+				201
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Soldier up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GreaseSoldier",
+	"position": [
+		-30,
+		50
+	],
+	"health": 2,
+	"healthicon": "greasesolie",
+	"flip_x": false,
+	"healthbar_colors": [
+		79,
+		196,
+		235
+	],
+	"camera_position": [
+		100,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 0.8,
+	"healthBarOffsetP2": [
+		0,
+		-60
+	]
+}

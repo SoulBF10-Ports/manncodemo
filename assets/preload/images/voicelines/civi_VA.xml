@@ -1,0 +1,427 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="civi_VA.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="voice 1 30000" x="5" y="5" width="449" height="624" frameX="0" frameY="-6" frameWidth="449" frameHeight="630"/>
+	<SubTexture name="voice 1 30001" x="5" y="5" width="449" height="624" frameX="0" frameY="-6" frameWidth="449" frameHeight="630"/>
+	<SubTexture name="voice 1 30002" x="454" y="5" width="445" height="626" frameX="0" frameY="-4" frameWidth="449" frameHeight="630"/>
+	<SubTexture name="voice 1 30003" x="454" y="5" width="445" height="626" frameX="0" frameY="-4" frameWidth="449" frameHeight="630"/>
+	<SubTexture name="voice 1 30004" x="899" y="5" width="439" height="630" frameX="0" frameY="0" frameWidth="449" frameHeight="630"/>
+	<SubTexture name="voice 1 30005" x="899" y="5" width="439" height="630" frameX="0" frameY="0" frameWidth="449" frameHeight="630"/>
+	<SubTexture name="voice 1 30006" x="1338" y="5" width="436" height="630" frameX="0" frameY="0" frameWidth="449" frameHeight="630"/>
+	<SubTexture name="voice 1 30007" x="1338" y="5" width="436" height="630" frameX="0" frameY="0" frameWidth="449" frameHeight="630"/>
+	<SubTexture name="voice 1 30008" x="1774" y="5" width="437" height="630" frameX="0" frameY="0" frameWidth="449" frameHeight="630"/>
+	<SubTexture name="voice 1 30009" x="1774" y="5" width="437" height="630" frameX="0" frameY="0" frameWidth="449" frameHeight="630"/>
+	<SubTexture name="voice 1 30010" x="1774" y="5" width="437" height="630" frameX="0" frameY="0" frameWidth="449" frameHeight="630"/>
+	<SubTexture name="voice 1 30011" x="1774" y="5" width="437" height="630" frameX="0" frameY="0" frameWidth="449" frameHeight="630"/>
+	<SubTexture name="voice 1 30012" x="2211" y="5" width="437" height="630" frameX="0" frameY="0" frameWidth="449" frameHeight="630"/>
+	<SubTexture name="voice 1 30013" x="2211" y="5" width="437" height="630" frameX="0" frameY="0" frameWidth="449" frameHeight="630"/>
+	<SubTexture name="voice 1 30014" x="2648" y="5" width="437" height="630" frameX="0" frameY="0" frameWidth="449" frameHeight="630"/>
+	<SubTexture name="voice 1 30015" x="2648" y="5" width="437" height="630" frameX="0" frameY="0" frameWidth="449" frameHeight="630"/>
+	<SubTexture name="voice 1 30016" x="3085" y="5" width="437" height="630" frameX="0" frameY="0" frameWidth="449" frameHeight="630"/>
+	<SubTexture name="voice 1 30017" x="3085" y="5" width="437" height="630" frameX="0" frameY="0" frameWidth="449" frameHeight="630"/>
+	<SubTexture name="voice 1 30018" x="3085" y="5" width="437" height="630" frameX="0" frameY="0" frameWidth="449" frameHeight="630"/>
+	<SubTexture name="voice 1 30019" x="3085" y="5" width="437" height="630" frameX="0" frameY="0" frameWidth="449" frameHeight="630"/>
+	<SubTexture name="voice 1 30020" x="3085" y="5" width="437" height="630" frameX="0" frameY="0" frameWidth="449" frameHeight="630"/>
+	<SubTexture name="voice 1 30021" x="3085" y="5" width="437" height="630" frameX="0" frameY="0" frameWidth="449" frameHeight="630"/>
+	<SubTexture name="voice 1 30022" x="3085" y="5" width="437" height="630" frameX="0" frameY="0" frameWidth="449" frameHeight="630"/>
+	<SubTexture name="voice 1 30023" x="3085" y="5" width="437" height="630" frameX="0" frameY="0" frameWidth="449" frameHeight="630"/>
+	<SubTexture name="voice 1 classic 10000" x="3522" y="5" width="456" height="618" frameX="0" frameY="-15" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10001" x="3522" y="5" width="456" height="618" frameX="0" frameY="-15" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10002" x="3978" y="5" width="453" height="631" frameX="-7" frameY="-2" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10003" x="3978" y="5" width="453" height="631" frameX="-7" frameY="-2" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10004" x="4431" y="5" width="452" height="633" frameX="-8" frameY="0" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10005" x="4431" y="5" width="452" height="633" frameX="-8" frameY="0" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10006" x="4431" y="5" width="452" height="633" frameX="-8" frameY="0" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10007" x="4431" y="5" width="452" height="633" frameX="-8" frameY="0" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10008" x="4431" y="5" width="452" height="633" frameX="-8" frameY="0" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10009" x="4431" y="5" width="452" height="633" frameX="-8" frameY="0" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10010" x="4431" y="5" width="452" height="633" frameX="-8" frameY="0" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10011" x="4431" y="5" width="452" height="633" frameX="-8" frameY="0" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10012" x="4883" y="5" width="447" height="622" frameX="-30" frameY="-11" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10013" x="4883" y="5" width="447" height="622" frameX="-30" frameY="-11" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10014" x="5330" y="5" width="441" height="620" frameX="-30" frameY="-13" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10015" x="5330" y="5" width="441" height="620" frameX="-30" frameY="-13" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10016" x="5771" y="5" width="435" height="620" frameX="-30" frameY="-13" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10017" x="5771" y="5" width="435" height="620" frameX="-30" frameY="-13" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10018" x="5771" y="5" width="435" height="620" frameX="-30" frameY="-13" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10019" x="5771" y="5" width="435" height="620" frameX="-30" frameY="-13" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10020" x="6206" y="5" width="435" height="620" frameX="-30" frameY="-13" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10021" x="6206" y="5" width="435" height="620" frameX="-30" frameY="-13" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10022" x="6641" y="5" width="435" height="620" frameX="-30" frameY="-13" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10023" x="6641" y="5" width="435" height="620" frameX="-30" frameY="-13" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10024" x="4883" y="5" width="447" height="622" frameX="-30" frameY="-11" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10025" x="4883" y="5" width="447" height="622" frameX="-30" frameY="-11" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10026" x="5330" y="5" width="441" height="620" frameX="-30" frameY="-13" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10027" x="5330" y="5" width="441" height="620" frameX="-30" frameY="-13" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10028" x="5771" y="5" width="435" height="620" frameX="-30" frameY="-13" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10029" x="5771" y="5" width="435" height="620" frameX="-30" frameY="-13" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10030" x="5771" y="5" width="435" height="620" frameX="-30" frameY="-13" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10031" x="5771" y="5" width="435" height="620" frameX="-30" frameY="-13" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10032" x="6206" y="5" width="435" height="620" frameX="-30" frameY="-13" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10033" x="6206" y="5" width="435" height="620" frameX="-30" frameY="-13" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10034" x="6641" y="5" width="435" height="620" frameX="-30" frameY="-13" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10035" x="6641" y="5" width="435" height="620" frameX="-30" frameY="-13" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10036" x="6641" y="5" width="435" height="620" frameX="-30" frameY="-13" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10037" x="6641" y="5" width="435" height="620" frameX="-30" frameY="-13" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10038" x="6641" y="5" width="435" height="620" frameX="-30" frameY="-13" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10039" x="7076" y="5" width="0" height="0" frameX="-106" frameY="5" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10040" x="7076" y="5" width="0" height="0" frameX="-106" frameY="5" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10041" x="7076" y="5" width="0" height="0" frameX="-106" frameY="5" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10042" x="7076" y="5" width="0" height="0" frameX="-106" frameY="5" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10043" x="7076" y="5" width="0" height="0" frameX="-106" frameY="5" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10044" x="7076" y="5" width="0" height="0" frameX="-106" frameY="5" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10045" x="7076" y="5" width="0" height="0" frameX="-106" frameY="5" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10046" x="7076" y="5" width="0" height="0" frameX="-106" frameY="5" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10047" x="7076" y="5" width="0" height="0" frameX="-106" frameY="5" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10048" x="7076" y="5" width="0" height="0" frameX="-106" frameY="5" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10049" x="7076" y="5" width="0" height="0" frameX="-106" frameY="5" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 1 classic 10050" x="7076" y="5" width="0" height="0" frameX="-106" frameY="5" frameWidth="477" frameHeight="633"/>
+	<SubTexture name="voice 20000" x="7076" y="5" width="451" height="624" frameX="-17" frameY="-14" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20001" x="7076" y="5" width="451" height="624" frameX="-17" frameY="-14" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20002" x="7527" y="5" width="438" height="613" frameX="-19" frameY="-25" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20003" x="7527" y="5" width="438" height="613" frameX="-19" frameY="-25" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20004" x="5" y="638" width="429" height="609" frameX="-21" frameY="-29" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20005" x="5" y="638" width="429" height="609" frameX="-21" frameY="-29" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20006" x="434" y="638" width="425" height="609" frameX="-22" frameY="-29" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20007" x="434" y="638" width="425" height="609" frameX="-22" frameY="-29" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20008" x="859" y="638" width="426" height="609" frameX="-22" frameY="-29" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20009" x="859" y="638" width="426" height="609" frameX="-22" frameY="-29" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20010" x="1285" y="638" width="426" height="609" frameX="-22" frameY="-29" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20011" x="1285" y="638" width="426" height="609" frameX="-22" frameY="-29" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20012" x="1711" y="638" width="426" height="609" frameX="-22" frameY="-29" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20013" x="1711" y="638" width="426" height="609" frameX="-22" frameY="-29" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20014" x="2137" y="638" width="426" height="609" frameX="-22" frameY="-29" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20015" x="2137" y="638" width="426" height="609" frameX="-22" frameY="-29" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20016" x="2563" y="638" width="426" height="609" frameX="-22" frameY="-29" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20017" x="2563" y="638" width="426" height="609" frameX="-22" frameY="-29" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20018" x="2989" y="638" width="435" height="605" frameX="-36" frameY="-33" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20019" x="2989" y="638" width="435" height="605" frameX="-36" frameY="-33" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20020" x="3424" y="638" width="414" height="609" frameX="-36" frameY="-29" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20021" x="3424" y="638" width="414" height="609" frameX="-36" frameY="-29" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20022" x="3838" y="638" width="414" height="609" frameX="-36" frameY="-29" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20023" x="3838" y="638" width="414" height="609" frameX="-36" frameY="-29" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20024" x="4252" y="638" width="414" height="609" frameX="-36" frameY="-29" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20025" x="4252" y="638" width="414" height="609" frameX="-36" frameY="-29" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20026" x="4666" y="638" width="414" height="609" frameX="-36" frameY="-29" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20027" x="4666" y="638" width="414" height="609" frameX="-36" frameY="-29" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20028" x="5080" y="638" width="414" height="609" frameX="-36" frameY="-29" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20029" x="5080" y="638" width="414" height="609" frameX="-36" frameY="-29" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20030" x="5494" y="638" width="414" height="609" frameX="-36" frameY="-29" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20031" x="5494" y="638" width="414" height="609" frameX="-36" frameY="-29" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20032" x="5908" y="638" width="413" height="604" frameX="-36" frameY="-34" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20033" x="5908" y="638" width="413" height="604" frameX="-36" frameY="-34" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20034" x="6321" y="638" width="425" height="634" frameX="-17" frameY="-4" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20035" x="6321" y="638" width="425" height="634" frameX="-17" frameY="-4" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20036" x="6746" y="638" width="455" height="638" frameX="0" frameY="0" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20037" x="6746" y="638" width="455" height="638" frameX="0" frameY="0" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20038" x="6746" y="638" width="455" height="638" frameX="0" frameY="0" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20039" x="6746" y="638" width="455" height="638" frameX="0" frameY="0" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20040" x="6746" y="638" width="455" height="638" frameX="0" frameY="0" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20041" x="6746" y="638" width="455" height="638" frameX="0" frameY="0" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 20042" x="6746" y="638" width="455" height="638" frameX="0" frameY="0" frameWidth="471" frameHeight="638"/>
+	<SubTexture name="voice 30000" x="7201" y="638" width="449" height="636" frameX="-7" frameY="-27" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30001" x="7201" y="638" width="449" height="636" frameX="-7" frameY="-27" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30002" x="7650" y="638" width="442" height="648" frameX="-4" frameY="-15" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30003" x="7650" y="638" width="442" height="648" frameX="-4" frameY="-15" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30004" x="5" y="1286" width="438" height="652" frameX="-4" frameY="-11" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30005" x="5" y="1286" width="438" height="652" frameX="-4" frameY="-11" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30006" x="443" y="1286" width="436" height="651" frameX="-5" frameY="-12" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30007" x="443" y="1286" width="436" height="651" frameX="-5" frameY="-12" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30008" x="443" y="1286" width="436" height="651" frameX="-5" frameY="-12" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30009" x="443" y="1286" width="436" height="651" frameX="-5" frameY="-12" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30010" x="879" y="1286" width="436" height="651" frameX="-5" frameY="-12" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30011" x="879" y="1286" width="436" height="651" frameX="-5" frameY="-12" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30012" x="1315" y="1286" width="436" height="651" frameX="-5" frameY="-12" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30013" x="1315" y="1286" width="436" height="651" frameX="-5" frameY="-12" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30014" x="1751" y="1286" width="436" height="651" frameX="-5" frameY="-12" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30015" x="1751" y="1286" width="436" height="651" frameX="-5" frameY="-12" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30016" x="2187" y="1286" width="436" height="651" frameX="-5" frameY="-12" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30017" x="2187" y="1286" width="436" height="651" frameX="-5" frameY="-12" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30018" x="1751" y="1286" width="436" height="651" frameX="-5" frameY="-12" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30019" x="1751" y="1286" width="436" height="651" frameX="-5" frameY="-12" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30020" x="879" y="1286" width="436" height="651" frameX="-5" frameY="-12" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30021" x="879" y="1286" width="436" height="651" frameX="-5" frameY="-12" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30022" x="2623" y="1286" width="435" height="647" frameX="-2" frameY="-16" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30023" x="2623" y="1286" width="435" height="647" frameX="-2" frameY="-16" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30024" x="3058" y="1286" width="386" height="643" frameX="-55" frameY="-19" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30025" x="3058" y="1286" width="386" height="643" frameX="-55" frameY="-19" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30026" x="3444" y="1286" width="417" height="655" frameX="-19" frameY="-7" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30027" x="3861" y="1286" width="417" height="655" frameX="-19" frameY="-7" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30028" x="4278" y="1286" width="422" height="663" frameX="-3" frameY="-1" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30029" x="4700" y="1286" width="422" height="663" frameX="-3" frameY="-1" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30030" x="5122" y="1286" width="425" height="664" frameX="0" frameY="0" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30031" x="5122" y="1286" width="425" height="664" frameX="0" frameY="0" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30032" x="5547" y="1286" width="425" height="664" frameX="0" frameY="0" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30033" x="5547" y="1286" width="425" height="664" frameX="0" frameY="0" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30034" x="5972" y="1286" width="425" height="664" frameX="0" frameY="0" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30035" x="5972" y="1286" width="425" height="664" frameX="0" frameY="0" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30036" x="6397" y="1286" width="425" height="664" frameX="0" frameY="0" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30037" x="6397" y="1286" width="425" height="664" frameX="0" frameY="0" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30038" x="6822" y="1286" width="425" height="664" frameX="0" frameY="0" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30039" x="6822" y="1286" width="425" height="664" frameX="0" frameY="0" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30040" x="7247" y="1286" width="425" height="664" frameX="0" frameY="0" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30041" x="7247" y="1286" width="425" height="664" frameX="0" frameY="0" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30042" x="7247" y="1286" width="425" height="664" frameX="0" frameY="0" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30043" x="7247" y="1286" width="425" height="664" frameX="0" frameY="0" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30044" x="7247" y="1286" width="425" height="664" frameX="0" frameY="0" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30045" x="7247" y="1286" width="425" height="664" frameX="0" frameY="0" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30046" x="7247" y="1286" width="425" height="664" frameX="0" frameY="0" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 30047" x="7247" y="1286" width="425" height="664" frameX="0" frameY="0" frameWidth="456" frameHeight="664"/>
+	<SubTexture name="voice 40000" x="7672" y="1286" width="455" height="635" frameX="0" frameY="-14" frameWidth="455" frameHeight="649"/>
+	<SubTexture name="voice 40001" x="7672" y="1286" width="455" height="635" frameX="0" frameY="-14" frameWidth="455" frameHeight="649"/>
+	<SubTexture name="voice 40002" x="5" y="1950" width="446" height="649" frameX="-6" frameY="0" frameWidth="455" frameHeight="649"/>
+	<SubTexture name="voice 40003" x="5" y="1950" width="446" height="649" frameX="-6" frameY="0" frameWidth="455" frameHeight="649"/>
+	<SubTexture name="voice 40004" x="451" y="1950" width="453" height="640" frameX="-1" frameY="-9" frameWidth="455" frameHeight="649"/>
+	<SubTexture name="voice 40005" x="451" y="1950" width="453" height="640" frameX="-1" frameY="-9" frameWidth="455" frameHeight="649"/>
+	<SubTexture name="voice 40006" x="904" y="1950" width="455" height="638" frameX="0" frameY="-11" frameWidth="455" frameHeight="649"/>
+	<SubTexture name="voice 40007" x="904" y="1950" width="455" height="638" frameX="0" frameY="-11" frameWidth="455" frameHeight="649"/>
+	<SubTexture name="voice 40008" x="5" y="1950" width="446" height="649" frameX="-6" frameY="0" frameWidth="455" frameHeight="649"/>
+	<SubTexture name="voice 40009" x="5" y="1950" width="446" height="649" frameX="-6" frameY="0" frameWidth="455" frameHeight="649"/>
+	<SubTexture name="voice 40010" x="451" y="1950" width="453" height="640" frameX="-1" frameY="-9" frameWidth="455" frameHeight="649"/>
+	<SubTexture name="voice 40011" x="451" y="1950" width="453" height="640" frameX="-1" frameY="-9" frameWidth="455" frameHeight="649"/>
+	<SubTexture name="voice 40012" x="904" y="1950" width="455" height="638" frameX="0" frameY="-11" frameWidth="455" frameHeight="649"/>
+	<SubTexture name="voice 40013" x="904" y="1950" width="455" height="638" frameX="0" frameY="-11" frameWidth="455" frameHeight="649"/>
+	<SubTexture name="voice 40014" x="5" y="1950" width="446" height="649" frameX="-6" frameY="0" frameWidth="455" frameHeight="649"/>
+	<SubTexture name="voice 40015" x="5" y="1950" width="446" height="649" frameX="-6" frameY="0" frameWidth="455" frameHeight="649"/>
+	<SubTexture name="voice 40016" x="451" y="1950" width="453" height="640" frameX="-1" frameY="-9" frameWidth="455" frameHeight="649"/>
+	<SubTexture name="voice 40017" x="451" y="1950" width="453" height="640" frameX="-1" frameY="-9" frameWidth="455" frameHeight="649"/>
+	<SubTexture name="voice 40018" x="904" y="1950" width="455" height="638" frameX="0" frameY="-11" frameWidth="455" frameHeight="649"/>
+	<SubTexture name="voice 40019" x="904" y="1950" width="455" height="638" frameX="0" frameY="-11" frameWidth="455" frameHeight="649"/>
+	<SubTexture name="voice 50000" x="1359" y="1950" width="519" height="729" frameX="-34" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50001" x="1359" y="1950" width="519" height="729" frameX="-34" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50002" x="1878" y="1950" width="519" height="729" frameX="-34" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50003" x="1878" y="1950" width="519" height="729" frameX="-34" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50004" x="2397" y="1950" width="519" height="729" frameX="-34" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50005" x="2397" y="1950" width="519" height="729" frameX="-34" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50006" x="2916" y="1950" width="519" height="729" frameX="-34" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50007" x="2916" y="1950" width="519" height="729" frameX="-34" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50008" x="3435" y="1950" width="519" height="729" frameX="-34" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50009" x="3435" y="1950" width="519" height="729" frameX="-34" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50010" x="3435" y="1950" width="519" height="729" frameX="-34" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50011" x="3435" y="1950" width="519" height="729" frameX="-34" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50012" x="3954" y="1950" width="519" height="729" frameX="-34" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50013" x="3954" y="1950" width="519" height="729" frameX="-34" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50014" x="4473" y="1950" width="519" height="729" frameX="-34" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50015" x="4473" y="1950" width="519" height="729" frameX="-34" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50016" x="4992" y="1950" width="519" height="729" frameX="-34" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50017" x="4992" y="1950" width="519" height="729" frameX="-34" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50018" x="5511" y="1950" width="519" height="729" frameX="-34" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50019" x="6030" y="1950" width="519" height="729" frameX="-34" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50020" x="6549" y="1950" width="519" height="729" frameX="-34" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50021" x="7068" y="1950" width="519" height="729" frameX="-34" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50022" x="7587" y="1950" width="519" height="729" frameX="-34" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50023" x="5" y="2679" width="519" height="729" frameX="-34" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50024" x="524" y="2679" width="519" height="729" frameX="-34" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50025" x="524" y="2679" width="519" height="729" frameX="-34" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50026" x="1043" y="2679" width="519" height="729" frameX="-34" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50027" x="1043" y="2679" width="519" height="729" frameX="-34" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50028" x="1562" y="2679" width="553" height="729"/>
+	<SubTexture name="voice 50029" x="1562" y="2679" width="553" height="729"/>
+	<SubTexture name="voice 50030" x="2115" y="2679" width="552" height="729" frameX="-1" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50031" x="2115" y="2679" width="552" height="729" frameX="-1" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50032" x="2667" y="2679" width="550" height="729" frameX="-3" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50033" x="2667" y="2679" width="550" height="729" frameX="-3" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50034" x="3217" y="2679" width="550" height="729" frameX="-3" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50035" x="3217" y="2679" width="550" height="729" frameX="-3" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50036" x="3767" y="2679" width="550" height="729" frameX="-3" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50037" x="3767" y="2679" width="550" height="729" frameX="-3" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50038" x="4317" y="2679" width="550" height="729" frameX="-3" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50039" x="4317" y="2679" width="550" height="729" frameX="-3" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50040" x="4867" y="2679" width="550" height="729" frameX="-3" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50041" x="4867" y="2679" width="550" height="729" frameX="-3" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50042" x="4867" y="2679" width="550" height="729" frameX="-3" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50043" x="4867" y="2679" width="550" height="729" frameX="-3" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50044" x="4867" y="2679" width="550" height="729" frameX="-3" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50045" x="4867" y="2679" width="550" height="729" frameX="-3" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50046" x="4867" y="2679" width="550" height="729" frameX="-3" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice 50047" x="4867" y="2679" width="550" height="729" frameX="-3" frameY="0" frameWidth="553" frameHeight="729"/>
+	<SubTexture name="voice classic 1 20000" x="5417" y="2679" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20001" x="5417" y="2679" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20002" x="5959" y="2679" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20003" x="5959" y="2679" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20004" x="6501" y="2679" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20005" x="6501" y="2679" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20006" x="7043" y="2679" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20007" x="7043" y="2679" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20008" x="7585" y="2679" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20009" x="7585" y="2679" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20010" x="5" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20011" x="5" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20012" x="547" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20013" x="547" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20014" x="547" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20015" x="547" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20016" x="1089" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20017" x="1089" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20018" x="1631" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20019" x="1631" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20020" x="2173" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20021" x="2173" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20022" x="2715" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20023" x="2715" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20024" x="3257" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20025" x="3257" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20026" x="3799" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20027" x="3799" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20028" x="4341" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20029" x="4341" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20030" x="4883" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20031" x="4883" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20032" x="4883" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20033" x="4883" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20034" x="5425" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20035" x="5425" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20036" x="5967" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20037" x="5967" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20038" x="6509" y="3408" width="559" height="664"/>
+	<SubTexture name="voice classic 1 20039" x="7068" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20040" x="7610" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20041" x="7610" y="3408" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20042" x="5" y="4072" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20043" x="547" y="4072" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20044" x="547" y="4072" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20045" x="5" y="4072" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20046" x="5" y="4072" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20047" x="1089" y="4072" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20048" x="1631" y="4072" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 1 20049" x="2173" y="4072" width="542" height="664" frameX="0" frameY="0" frameWidth="559" frameHeight="664"/>
+	<SubTexture name="voice classic 2 10000" x="2715" y="4072" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10001" x="2715" y="4072" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10002" x="3293" y="4072" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10003" x="3293" y="4072" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10004" x="3871" y="4072" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10005" x="3871" y="4072" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10006" x="4449" y="4072" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10007" x="4449" y="4072" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10008" x="5027" y="4072" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10009" x="5027" y="4072" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10010" x="5605" y="4072" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10011" x="5605" y="4072" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10012" x="5605" y="4072" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10013" x="5605" y="4072" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10014" x="6183" y="4072" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10015" x="6183" y="4072" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10016" x="6761" y="4072" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10017" x="6761" y="4072" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10018" x="6183" y="4072" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10019" x="6183" y="4072" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10020" x="7339" y="4072" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10021" x="7339" y="4072" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10022" x="5" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10023" x="5" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10024" x="583" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10025" x="583" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10026" x="1161" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10027" x="1161" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10028" x="1739" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10029" x="1739" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10030" x="6761" y="4072" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10031" x="6761" y="4072" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10032" x="1161" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10033" x="1161" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10034" x="2317" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10035" x="2317" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10036" x="2895" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10037" x="2895" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10038" x="6183" y="4072" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10039" x="6183" y="4072" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10040" x="3473" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10041" x="3473" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10042" x="4051" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10043" x="4051" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10044" x="4629" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10045" x="4629" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10046" x="6183" y="4072" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10047" x="6183" y="4072" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10048" x="1739" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10049" x="1739" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10050" x="1161" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10051" x="1161" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10052" x="5207" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10053" x="5207" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10054" x="5785" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10055" x="5785" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10056" x="6363" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10057" x="6363" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10058" x="6941" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10059" x="6941" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10060" x="7519" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10061" x="7519" y="4738" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10062" x="5" y="5404" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10063" x="5" y="5404" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10064" x="583" y="5404" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10065" x="583" y="5404" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10066" x="1161" y="5404" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10067" x="1161" y="5404" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10068" x="1739" y="5404" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10069" x="1739" y="5404" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10070" x="2317" y="5404" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10071" x="2317" y="5404" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10072" x="2317" y="5404" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10073" x="2317" y="5404" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10074" x="2317" y="5404" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10075" x="2317" y="5404" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10076" x="2317" y="5404" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10077" x="2317" y="5404" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10078" x="2317" y="5404" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10079" x="2317" y="5404" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10080" x="2317" y="5404" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10081" x="2317" y="5404" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10082" x="2317" y="5404" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10083" x="2317" y="5404" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10084" x="2317" y="5404" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10085" x="2317" y="5404" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10086" x="2317" y="5404" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10087" x="2317" y="5404" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10088" x="2317" y="5404" width="578" height="666"/>
+	<SubTexture name="voice classic 2 10089" x="2317" y="5404" width="578" height="666"/>
+	<SubTexture name="voice og0000" x="2895" y="5404" width="457" height="633" frameX="-9" frameY="-12" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0001" x="2895" y="5404" width="457" height="633" frameX="-9" frameY="-12" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0002" x="3352" y="5404" width="468" height="624" frameX="-9" frameY="-21" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0003" x="3352" y="5404" width="468" height="624" frameX="-9" frameY="-21" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0004" x="3820" y="5404" width="466" height="611" frameX="-11" frameY="-34" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0005" x="3820" y="5404" width="466" height="611" frameX="-11" frameY="-34" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0006" x="4286" y="5404" width="466" height="613" frameX="-11" frameY="-32" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0007" x="4752" y="5404" width="466" height="613" frameX="-11" frameY="-32" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0008" x="5218" y="5404" width="463" height="615" frameX="-11" frameY="-30" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0009" x="5218" y="5404" width="463" height="615" frameX="-11" frameY="-30" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0010" x="5681" y="5404" width="460" height="615" frameX="-14" frameY="-30" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0011" x="5681" y="5404" width="460" height="615" frameX="-14" frameY="-30" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0012" x="6141" y="5404" width="454" height="618" frameX="-17" frameY="-27" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0013" x="6595" y="5404" width="454" height="618" frameX="-17" frameY="-27" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0014" x="7049" y="5404" width="426" height="631" frameX="-28" frameY="-14" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0015" x="7475" y="5404" width="426" height="631" frameX="-28" frameY="-14" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0016" x="5" y="6070" width="419" height="639" frameX="-39" frameY="-6" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0017" x="424" y="6070" width="419" height="639" frameX="-39" frameY="-6" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0018" x="843" y="6070" width="412" height="645" frameX="-41" frameY="0" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0019" x="843" y="6070" width="412" height="645" frameX="-41" frameY="0" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0020" x="1255" y="6070" width="412" height="644" frameX="-41" frameY="-1" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0021" x="1255" y="6070" width="412" height="644" frameX="-41" frameY="-1" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0022" x="1667" y="6070" width="412" height="644" frameX="-41" frameY="-1" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0023" x="1667" y="6070" width="412" height="644" frameX="-41" frameY="-1" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0024" x="2079" y="6070" width="415" height="636" frameX="-42" frameY="-9" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0025" x="2079" y="6070" width="415" height="636" frameX="-42" frameY="-9" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0026" x="2494" y="6070" width="408" height="635" frameX="-39" frameY="-10" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0027" x="2494" y="6070" width="408" height="635" frameX="-39" frameY="-10" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0028" x="2902" y="6070" width="456" height="638" frameX="-38" frameY="-7" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0029" x="2902" y="6070" width="456" height="638" frameX="-38" frameY="-7" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0030" x="3358" y="6070" width="463" height="638" frameX="-38" frameY="-7" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0031" x="3358" y="6070" width="463" height="638" frameX="-38" frameY="-7" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0032" x="3821" y="6070" width="465" height="638" frameX="-38" frameY="-7" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0033" x="3821" y="6070" width="465" height="638" frameX="-38" frameY="-7" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0034" x="3821" y="6070" width="465" height="638" frameX="-38" frameY="-7" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0035" x="3821" y="6070" width="465" height="638" frameX="-38" frameY="-7" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0036" x="3821" y="6070" width="465" height="638" frameX="-38" frameY="-7" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0037" x="3821" y="6070" width="465" height="638" frameX="-38" frameY="-7" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0038" x="4286" y="6070" width="436" height="638" frameX="-38" frameY="-7" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0039" x="4286" y="6070" width="436" height="638" frameX="-38" frameY="-7" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0040" x="4722" y="6070" width="457" height="639" frameX="0" frameY="-6" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0041" x="4722" y="6070" width="457" height="639" frameX="0" frameY="-6" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0042" x="5179" y="6070" width="455" height="638" frameX="-3" frameY="-7" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0043" x="5179" y="6070" width="455" height="638" frameX="-3" frameY="-7" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0044" x="5179" y="6070" width="455" height="638" frameX="-3" frameY="-7" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0045" x="5179" y="6070" width="455" height="638" frameX="-3" frameY="-7" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0046" x="5179" y="6070" width="455" height="638" frameX="-3" frameY="-7" frameWidth="503" frameHeight="645"/>
+	<SubTexture name="voice og0047" x="5179" y="6070" width="455" height="638" frameX="-3" frameY="-7" frameWidth="503" frameHeight="645"/>
+</TextureAtlas>

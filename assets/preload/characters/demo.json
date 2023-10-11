@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				84,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Demoman Left"
+		},
+		{
+			"offsets": [
+				11,
+				-56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Demoman Right"
+		},
+		{
+			"offsets": [
+				34,
+				-144
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Demoman Down"
+		},
+		{
+			"offsets": [
+				2,
+				213
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Demoman UP"
+		},
+		{
+			"offsets": [
+				5,
+				1
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "idle",
+			"loop": false,
+			"name": "Demoman idle"
+		},
+		{
+			"offsets": [
+				5,
+				1
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "detonate",
+			"loop": false,
+			"name": "Demoman sticky detonation"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/demo",
+	"position": [
+		0,
+		-60
+	],
+	"healthicon": "demo",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		50
+	],
+	"sing_duration": 6,
+	"scale": 1,
+	"health": 1.75,
+	"healthBarOffsetP1": [
+		0,
+		0
+	],
+	"healthBarOffsetP2": [
+		-35,
+		-100
+	]
+}

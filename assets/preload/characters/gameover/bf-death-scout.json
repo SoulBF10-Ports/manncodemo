@@ -1,0 +1,57 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1338,
+				-88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				539,
+				-100
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "4",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				539,
+				-100
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "3",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gameover/bf-death-scout",
+	"position": [
+		300,
+		-150
+	],
+	"health": 1,
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-900,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

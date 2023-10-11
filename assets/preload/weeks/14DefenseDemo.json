@@ -1,0 +1,28 @@
+{
+	"songs": [
+		[
+			"Iron Bomber", 
+			"demo",
+			"Demoman",
+			"As they push the payload, our humble pair find themselves in a bit of a trap. The drunk Scottish waits there for them, with alcohol in one hand and a sticky launcher in the other. Can you blow him out of the water?",
+		"175", 
+		"3.0",
+		"2:50"
+		]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"storyName": "Defense",
+	"weekBefore": "5MTT",
+	"weekName": "Defense",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

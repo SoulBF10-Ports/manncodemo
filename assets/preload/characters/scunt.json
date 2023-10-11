@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-20,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Scout_Idle"
+		},
+		{
+			"offsets": [
+				150,
+				-141
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Scout_Left"
+		},
+		{
+			"offsets": [
+				100,
+				-45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Scout_Right"
+		},
+		{
+			"offsets": [
+				-8,
+				-175
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Scout_Down"
+		},
+		{
+			"offsets": [
+				251,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Scout_Up"
+		},
+		{
+			"offsets": [
+				-24,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "yea",
+			"indices": [],
+			"name": "YEAH"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Scout",
+	"position": [
+		0,
+		0
+	],
+	"health": 1.25,
+	"healthicon": "scunt",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		75
+	],
+	"sing_duration": 4,
+	"scale": 1.07,
+	"healthBarOffsetP1": [
+		0,
+		-100
+	],
+	"healthBarOffsetP2": [
+		-40,
+		-100
+	]
+}

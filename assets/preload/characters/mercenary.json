@@ -1,0 +1,160 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				94,
+				-73
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				40,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				74,
+				-192
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-38,
+				207
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				122,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hahaha",
+			"indices": [],
+			"name": "voice 1"
+		},
+		{
+			"offsets": [
+				135,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "screaming",
+			"indices": [],
+			"name": "voice 2"
+		},
+		{
+			"offsets": [
+				4,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "I love that sound",
+			"indices": [],
+			"name": "voice 3"
+		},
+		{
+			"offsets": [
+				52,
+				207
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "locked and load",
+			"indices": [],
+			"name": "voice 4"
+		},
+		{
+			"offsets": [
+				22,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "move it",
+			"indices": [],
+			"name": "voice 5"
+		},
+		{
+			"offsets": [
+				345,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idk",
+			"indices": [],
+			"name": "voice 6"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "son of a bitch",
+			"indices": [],
+			"name": "voice 7"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mercenary",
+	"position": [
+		0,
+		100
+	],
+	"health": 1.5,
+	"healthicon": "mercenary",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		0,
+		0
+	],
+	"camera_position": [
+		-80,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"healthBarOffsetP2": [
+		0,
+		-50
+	]
+}

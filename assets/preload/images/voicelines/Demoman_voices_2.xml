@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Demoman voices 2.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Demoman COME OOOON instancia 10000" x="10" y="10" width="501" height="684" frameX="0" frameY="-65" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10001" x="10" y="10" width="501" height="684" frameX="0" frameY="-65" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10002" x="521" y="10" width="514" height="682" frameX="-1" frameY="-67" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10003" x="521" y="10" width="514" height="682" frameX="-1" frameY="-67" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10004" x="1045" y="10" width="530" height="728" frameX="0" frameY="-21" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10005" x="1045" y="10" width="530" height="728" frameX="0" frameY="-21" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10006" x="1585" y="10" width="529" height="715" frameX="0" frameY="-34" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10007" x="1585" y="10" width="529" height="715" frameX="0" frameY="-34" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10008" x="2124" y="10" width="529" height="715" frameX="0" frameY="-34" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10009" x="2124" y="10" width="529" height="715" frameX="0" frameY="-34" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10010" x="2663" y="10" width="529" height="715" frameX="0" frameY="-34" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10011" x="2663" y="10" width="529" height="715" frameX="0" frameY="-34" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10012" x="1585" y="10" width="529" height="715" frameX="0" frameY="-34" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10013" x="1585" y="10" width="529" height="715" frameX="0" frameY="-34" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10014" x="3202" y="10" width="529" height="715" frameX="0" frameY="-34" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10015" x="3202" y="10" width="529" height="715" frameX="0" frameY="-34" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10016" x="1585" y="10" width="529" height="715" frameX="0" frameY="-34" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10017" x="1585" y="10" width="529" height="715" frameX="0" frameY="-34" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10018" x="3202" y="10" width="529" height="715" frameX="0" frameY="-34" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10019" x="3741" y="10" width="566" height="715" frameX="0" frameY="-34" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10020" x="3741" y="10" width="566" height="715" frameX="0" frameY="-34" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10021" x="4317" y="10" width="630" height="715" frameX="0" frameY="-34" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10022" x="4957" y="10" width="630" height="715" frameX="0" frameY="-34" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10023" x="5597" y="10" width="625" height="715" frameX="0" frameY="-34" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10024" x="6232" y="10" width="625" height="722" frameX="0" frameY="-27" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10025" x="6232" y="10" width="625" height="722" frameX="0" frameY="-27" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10026" x="6867" y="10" width="625" height="739" frameX="0" frameY="-10" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10027" x="6867" y="10" width="625" height="739" frameX="0" frameY="-10" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10028" x="7502" y="10" width="625" height="749" frameX="0" frameY="0" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10029" x="7502" y="10" width="625" height="749" frameX="0" frameY="0" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10030" x="10" y="769" width="625" height="715" frameX="0" frameY="-34" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10031" x="10" y="769" width="625" height="715" frameX="0" frameY="-34" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10032" x="10" y="769" width="625" height="715" frameX="0" frameY="-34" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10033" x="10" y="769" width="625" height="715" frameX="0" frameY="-34" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman COME OOOON instancia 10034" x="10" y="769" width="625" height="715" frameX="0" frameY="-34" frameWidth="630" frameHeight="749"/>
+	<SubTexture name="Demoman It's on instancia 10000" x="645" y="769" width="619" height="713" frameX="-39" frameY="-10" frameWidth="678" frameHeight="724"/>
+	<SubTexture name="Demoman It's on instancia 10001" x="645" y="769" width="619" height="713" frameX="-39" frameY="-10" frameWidth="678" frameHeight="724"/>
+	<SubTexture name="Demoman It's on instancia 10002" x="1274" y="769" width="621" height="711" frameX="-38" frameY="-13" frameWidth="678" frameHeight="724"/>
+	<SubTexture name="Demoman It's on instancia 10003" x="1274" y="769" width="621" height="711" frameX="-38" frameY="-13" frameWidth="678" frameHeight="724"/>
+	<SubTexture name="Demoman It's on instancia 10004" x="1905" y="769" width="678" height="688" frameX="0" frameY="-34" frameWidth="678" frameHeight="724"/>
+	<SubTexture name="Demoman It's on instancia 10005" x="1905" y="769" width="678" height="688" frameX="0" frameY="-34" frameWidth="678" frameHeight="724"/>
+	<SubTexture name="Demoman It's on instancia 10006" x="2593" y="769" width="654" height="697" frameX="-13" frameY="-26" frameWidth="678" frameHeight="724"/>
+	<SubTexture name="Demoman It's on instancia 10007" x="2593" y="769" width="654" height="697" frameX="-13" frameY="-26" frameWidth="678" frameHeight="724"/>
+	<SubTexture name="Demoman It's on instancia 10008" x="3257" y="769" width="647" height="714" frameX="-19" frameY="-9" frameWidth="678" frameHeight="724"/>
+	<SubTexture name="Demoman It's on instancia 10009" x="3257" y="769" width="647" height="714" frameX="-19" frameY="-9" frameWidth="678" frameHeight="724"/>
+	<SubTexture name="Demoman It's on instancia 10010" x="3914" y="769" width="647" height="723" frameX="-19" frameY="0" frameWidth="678" frameHeight="724"/>
+	<SubTexture name="Demoman It's on instancia 10011" x="3914" y="769" width="647" height="723" frameX="-19" frameY="0" frameWidth="678" frameHeight="724"/>
+	<SubTexture name="Demoman It's on instancia 10012" x="4571" y="769" width="647" height="701" frameX="-19" frameY="-22" frameWidth="678" frameHeight="724"/>
+	<SubTexture name="Demoman It's on instancia 10013" x="4571" y="769" width="647" height="701" frameX="-19" frameY="-22" frameWidth="678" frameHeight="724"/>
+	<SubTexture name="Demoman It's on instancia 10014" x="4571" y="769" width="647" height="701" frameX="-19" frameY="-22" frameWidth="678" frameHeight="724"/>
+	<SubTexture name="Demoman It's on instancia 10015" x="4571" y="769" width="647" height="701" frameX="-19" frameY="-22" frameWidth="678" frameHeight="724"/>
+	<SubTexture name="Demoman It's on instancia 10016" x="4571" y="769" width="647" height="701" frameX="-19" frameY="-22" frameWidth="678" frameHeight="724"/>
+	<SubTexture name="Demoman It's on instancia 10017" x="4571" y="769" width="647" height="701" frameX="-19" frameY="-22" frameWidth="678" frameHeight="724"/>
+	<SubTexture name="Demoman It's on instancia 10018" x="4571" y="769" width="647" height="701" frameX="-19" frameY="-22" frameWidth="678" frameHeight="724"/>
+	<SubTexture name="Demoman It's on instancia 10019" x="4571" y="769" width="647" height="701" frameX="-19" frameY="-22" frameWidth="678" frameHeight="724"/>
+	<SubTexture name="Demoman It's on instancia 10020" x="4571" y="769" width="647" height="701" frameX="-19" frameY="-22" frameWidth="678" frameHeight="724"/>
+	<SubTexture name="Demoman laugh instancia 10000" x="5228" y="769" width="658" height="662" frameX="-14" frameY="-17" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10001" x="5228" y="769" width="658" height="662" frameX="-14" frameY="-17" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10002" x="5896" y="769" width="659" height="670" frameX="-4" frameY="-9" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10003" x="5896" y="769" width="659" height="670" frameX="-4" frameY="-9" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10004" x="6565" y="769" width="660" height="679" frameX="0" frameY="0" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10005" x="6565" y="769" width="660" height="679" frameX="0" frameY="0" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10006" x="6565" y="769" width="660" height="679" frameX="0" frameY="0" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10007" x="6565" y="769" width="660" height="679" frameX="0" frameY="0" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10008" x="6565" y="769" width="660" height="679" frameX="0" frameY="0" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10009" x="6565" y="769" width="660" height="679" frameX="0" frameY="0" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10010" x="6565" y="769" width="660" height="679" frameX="0" frameY="0" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10011" x="5228" y="769" width="658" height="662" frameX="-14" frameY="-17" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10012" x="5228" y="769" width="658" height="662" frameX="-14" frameY="-17" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10013" x="5896" y="769" width="659" height="670" frameX="-4" frameY="-9" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10014" x="5896" y="769" width="659" height="670" frameX="-4" frameY="-9" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10015" x="6565" y="769" width="660" height="679" frameX="0" frameY="0" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10016" x="5228" y="769" width="658" height="662" frameX="-14" frameY="-17" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10017" x="5228" y="769" width="658" height="662" frameX="-14" frameY="-17" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10018" x="7235" y="769" width="659" height="670" frameX="-4" frameY="-9" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10019" x="7235" y="769" width="659" height="670" frameX="-4" frameY="-9" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10020" x="10" y="1502" width="660" height="679" frameX="0" frameY="0" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10021" x="680" y="1502" width="658" height="662" frameX="-14" frameY="-17" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10022" x="1348" y="1502" width="658" height="662" frameX="-14" frameY="-17" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10023" x="2016" y="1502" width="659" height="670" frameX="-4" frameY="-9" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10024" x="2685" y="1502" width="659" height="670" frameX="-4" frameY="-9" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10025" x="3354" y="1502" width="660" height="679" frameX="0" frameY="0" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10026" x="6565" y="769" width="660" height="679" frameX="0" frameY="0" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10027" x="6565" y="769" width="660" height="679" frameX="0" frameY="0" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10028" x="6565" y="769" width="660" height="679" frameX="0" frameY="0" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10029" x="6565" y="769" width="660" height="679" frameX="0" frameY="0" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10030" x="6565" y="769" width="660" height="679" frameX="0" frameY="0" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10031" x="6565" y="769" width="660" height="679" frameX="0" frameY="0" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10032" x="6565" y="769" width="660" height="679" frameX="0" frameY="0" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10033" x="6565" y="769" width="660" height="679" frameX="0" frameY="0" frameWidth="672" frameHeight="679"/>
+	<SubTexture name="Demoman laugh instancia 10034" x="6565" y="769" width="660" height="679" frameX="0" frameY="0" frameWidth="672" frameHeight="679"/>
+</TextureAtlas>

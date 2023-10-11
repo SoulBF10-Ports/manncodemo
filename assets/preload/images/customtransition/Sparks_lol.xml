@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sparks_lol.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sparks0010" x="0" y="0" width="369" height="991" frameX="-85" frameY="-75" frameWidth="611" frameHeight="1086"/>
+	<SubTexture name="Sparks0011" x="369" y="0" width="555" height="1059" frameX="-17" frameY="-8" frameWidth="611" frameHeight="1086"/>
+	<SubTexture name="Sparks0012" x="924" y="0" width="611" height="1086"/>
+	<SubTexture name="Sparks0013" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="611" frameHeight="1086"/>
+	<SubTexture name="Sparks0014" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="611" frameHeight="1086"/>
+	<SubTexture name="Sparks0015" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="611" frameHeight="1086"/>
+	<SubTexture name="Sparks0016" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="611" frameHeight="1086"/>
+	<SubTexture name="Sparks0017" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="611" frameHeight="1086"/>
+</TextureAtlas>

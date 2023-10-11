@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_knife.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="B0000" x="190" y="385" width="170" height="205"/>
+	<SubTexture name="A0000" x="360" y="385" width="208" height="204"/>
+	<SubTexture name="D0000" x="568" y="385" width="216" height="193"/>
+	<SubTexture name="C0000" x="784" y="385" width="186" height="205"/>
+</TextureAtlas>

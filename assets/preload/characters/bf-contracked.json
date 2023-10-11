@@ -1,0 +1,127 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				94,
+				114
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf smug left instancia"
+		},
+		{
+			"offsets": [
+				78,
+				165
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf smug right  instancia"
+		},
+		{
+			"offsets": [
+				89,
+				160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf smug down  instancia"
+		},
+		{
+			"offsets": [
+				80,
+				188
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bf smug up instancia"
+		},
+		{
+			"offsets": [
+				94,
+				114
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "bf smug left miss instancia"
+		},
+		{
+			"offsets": [
+				89,
+				108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "bf smug down miss instancia"
+		},
+		{
+			"offsets": [
+				75,
+				122
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "bf smug right miss instancia"
+		},
+		{
+			"offsets": [
+				78,
+				180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "bf smug up miss instancia"
+		},
+		{
+			"offsets": [
+				80,
+				169
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf smug instancia"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Contracked_Bf",
+	"position": [
+		30,
+		250
+	],
+	"health": 2,
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"healthBarOffsetP1": [
+		0,
+		-100
+	],
+	"camera_position": [
+		0,
+		-170
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bolt.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bolt0000" x="0" y="0" width="1952" height="1333"/>
+	<SubTexture name="bolt0001" x="0" y="0" width="1952" height="1333"/>
+	<SubTexture name="bolt0002" x="1952" y="0" width="1952" height="1203" frameX="0" frameY="-1" frameWidth="1952" frameHeight="1333"/>
+	<SubTexture name="bolt0003" x="1952" y="0" width="1952" height="1203" frameX="0" frameY="-1" frameWidth="1952" frameHeight="1333"/>
+	<SubTexture name="bolt0004" x="0" y="1333" width="1952" height="1205" frameX="0" frameY="-28" frameWidth="1952" frameHeight="1333"/>
+	<SubTexture name="bolt0005" x="0" y="1333" width="1952" height="1205" frameX="0" frameY="-28" frameWidth="1952" frameHeight="1333"/>
+</TextureAtlas>

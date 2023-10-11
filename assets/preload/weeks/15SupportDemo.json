@@ -1,0 +1,28 @@
+{
+	"songs": [
+		[
+			"Infiltrator", 
+			"spy", 
+			"Spy",
+			"Sneaking past the battlefields of snake water, our juvenile pair find themselves on the last control point, unguarded. Unfortunately for them, a sneaky French man with a passion for mature ladies has been waiting for them. Can you defeat this backstabbing Frenchie?",
+			"200", 
+			"2.8",
+			"2:26"
+		]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"storyName": "Support",
+	"weekBefore": "5MTT",
+	"weekName": "Support",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

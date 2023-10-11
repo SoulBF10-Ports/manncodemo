@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="noquit.png">
+<SubTexture name="noquit confirm0000" x="0" y="0" width="264" height="51" frameX="0" frameY="0" frameWidth="264" frameHeight="51" />
+<SubTexture name="noquit normal0000" x="0" y="51" width="264" height="51" frameX="0" frameY="0" frameWidth="264" frameHeight="51" />
+</TextureAtlas>

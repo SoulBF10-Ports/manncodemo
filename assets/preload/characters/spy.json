@@ -1,0 +1,116 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Spy Idle"
+		},
+		{
+			"offsets": [
+				0,
+				67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Spy Up"
+		},
+		{
+			"offsets": [
+				98,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Spy Right"
+		},
+		{
+			"offsets": [
+				90,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Spy Down"
+		},
+		{
+			"offsets": [
+				80,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Spy Left"
+		},
+		{
+			"offsets": [
+				10,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hell",
+			"indices": [],
+			"name": "Spy I'll see you in hell"
+		},
+		{
+			"offsets": [
+				4,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "disgust",
+			"indices": [],
+			"name": "Spy u disgusted me"
+		},
+		{
+			"offsets": [
+				12,
+				32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "whistle",
+			"indices": [],
+			"name": "Spy whistle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spy",
+	"position": [
+		0,
+		0
+	],
+	"health": 1.25,
+	"healthicon": "spy",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"healthBarOffsetP2": [
+		0,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

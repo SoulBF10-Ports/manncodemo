@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="conch_assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="select0000" x="0" y="0" width="395" height="40"/>
+	<SubTexture name="options0000" x="0" y="42" width="395" height="40"/>
+	<SubTexture name="credits0000" x="0" y="84" width="395" height="40"/>
+	<SubTexture name="discord0000" x="0" y="126" width="194" height="40"/>
+	<SubTexture name="twitter0000" x="196" y="126" width="194" height="40"/>
+	
+	<SubTexture name="eselect0000" x="0" y="168" width="395" height="40"/>
+	<SubTexture name="eoptions0000" x="0" y="210" width="395" height="40"/>
+	<SubTexture name="ecredits0000" x="0" y="252" width="395" height="40"/>
+	<SubTexture name="ediscord0000" x="0" y="294" width="194" height="40"/>
+	<SubTexture name="etwitter0000" x="196" y="294" width="194" height="40"/>
+</TextureAtlas>

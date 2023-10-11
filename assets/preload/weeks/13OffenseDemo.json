@@ -1,0 +1,28 @@
+{
+	"songs": [
+		[
+			"Force-A-Nature", 
+			"scunt",
+			"Scout",
+			"In the heat of the battle, the short, stocky couple find themselves in the midst of an good ol' Boston beat-down! This contender is as fast as a rabbit and as sly as a fox. Can you lay your own beats as well?",
+			"185", 
+			"3.0",
+			"2:30"
+		]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"storyName": "Offense",
+	"weekBefore": "5MTT",
+	"weekName": "Offense",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

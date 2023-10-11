@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="freeplayWindow.png">
+<SubTexture name="horizontal20000" x="0" y="0" width="64" height="140" frameX="0" frameY="0" frameWidth="64" frameHeight="140" />
+<SubTexture name="horizontal10001" x="64" y="0" width="64" height="140" frameX="0" frameY="0" frameWidth="64" frameHeight="140" />
+<SubTexture name="vertical20000" x="128" y="0" width="68" height="32" frameX="0" frameY="0" frameWidth="68" frameHeight="32" />
+<SubTexture name="vertical10001" x="128" y="32" width="68" height="32" frameX="0" frameY="0" frameWidth="68" frameHeight="32" />
+<SubTexture name="panel0000" x="196" y="0" width="604" height="354" frameX="0" frameY="0" frameWidth="604" frameHeight="354" />
+<SubTexture name="act20000" x="800" y="0" width="160" height="40" frameX="0" frameY="0" frameWidth="160" frameHeight="40" />
+<SubTexture name="act10001" x="800" y="40" width="160" height="40" frameX="0" frameY="0" frameWidth="160" frameHeight="40" />
+</TextureAtlas>

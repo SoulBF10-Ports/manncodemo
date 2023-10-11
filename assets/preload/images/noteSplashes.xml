@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="noteSplashes.png">
+	<SubTexture name="note splash A 0000" x="10" y="10" width="251" height="231"/>
+	<SubTexture name="note splash A 0001" x="271" y="10" width="251" height="231"/>
+	<SubTexture name="note splash A 0002" x="532" y="10" width="251" height="231"/>
+	<SubTexture name="note splash A 0003" x="10" y="251" width="251" height="231"/>
+	<SubTexture name="note splash A 0004" x="271" y="251" width="251" height="231"/>
+	<SubTexture name="note splash A 0005" x="532" y="251" width="251" height="231"/>
+	<SubTexture name="note splash A 0006" x="10" y="492" width="251" height="231"/>
+	<SubTexture name="note splash A 0007" x="271" y="492" width="251" height="231"/>
+	<SubTexture name="note splash A 0008" x="532" y="492" width="251" height="231"/>
+</TextureAtlas>
